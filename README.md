@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 
 ## Problem Statement
-To detect whether or not a person is wearing a face-mask by using Convolution Neural Networks and OpenCV
+To detect whether or not a person is wearing a face-mask by using **Convolution Neural Networks** and **OpenCV**
 
 ## Dataset 
 This dataset contains a `data` folder which contains 2 subdirectories namely
